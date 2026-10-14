@@ -1,0 +1,9 @@
+{
+	"appId": "com.slowburn.game",
+	"appName": "SLOWBURN",
+	"webDir": "www",
+	"backgroundColor": "#aab4c2",
+	"android": {
+		"allowMixedContent": false
+	}
+}
